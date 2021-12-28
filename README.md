@@ -12,6 +12,7 @@ https://github.com/MaherAzzouzi/LinuxKernelExploitation/tree/main/SCTF21
 3) Hence you may derive entertainment from this project.
 4) The level of understanding of these writeups fits my own. Which is very low. The writeups for the challs I can't do/understand are nonexistent for this reason. 
 5) This repo will probably be dynamic in that I will likely add things when I reattempt challs in the future. 
+6) I also made this to 'get better at github'. Pardon if any conventions are broken throughout this repo. 
 
 ## Things you don't have to know but you can 
 1. This was one of my "I can't do anything else until I see it materialise" projects where I have creative epiphany in full visualisation and I cannot forgive myself if I never see the possibility come to fruition 
