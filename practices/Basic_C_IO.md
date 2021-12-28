@@ -1,6 +1,6 @@
 # Basic C I/O
 
-Category: BE | Practice chall 
+Category: BE | Practice chall | author: main
 
 ## Description
 > Different languages have different functions for I/O. Python has input() and print(), C++ has cin and cout, and C has gets, puts, fgets, fputs, scanf, printf, getchar, putchar, read, write....
