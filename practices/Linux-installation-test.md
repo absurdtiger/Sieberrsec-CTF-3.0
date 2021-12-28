@@ -1,8 +1,6 @@
 # Linux installation test
 
-category: misc
-
-author: main
+category: misc | practice chall | author: main
 
 ## Description
 basically a chunk of text persuading you to install wsl
