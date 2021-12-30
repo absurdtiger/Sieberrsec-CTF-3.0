@@ -18,3 +18,5 @@ granted, cyberchef is not so good on huge files. regardless, we can see the firs
 and the second part of the answer is at the end of the file (clued by "tails)
 
 ![part 2](/Misc/Heads&Tails/h&t1sol2.png)
+
+IRS{Got_Head_Got_Tail_YAY_Y0u_W1nnEd_tH1S_G4m3!}
