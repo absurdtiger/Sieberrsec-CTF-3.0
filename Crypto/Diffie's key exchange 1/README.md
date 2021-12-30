@@ -1,6 +1,7 @@
 # Diffie's key exchange 1
-<https://github.com/IRS-Cybersec/Sieberrsec-CTF-3.0/tree/master/Crypto/diffies_key_exchange>
 27 solves
+
+<https://github.com/IRS-Cybersec/Sieberrsec-CTF-3.0/tree/master/Crypto/diffies_key_exchange>
 
 ## Description 
 
@@ -78,7 +79,7 @@ therefore when b = 0, B = 1
 
 below is the formula for shared_secret 
 
-![diffiesecretformula.svg](diffiesecretformula.svg)
+![Screenshot 2021-12-30 211354.png](Screenshot 2021-12-30 211354.png)
 
 let's focus on B^a mod p. 
 
