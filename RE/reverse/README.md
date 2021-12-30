@@ -45,11 +45,11 @@ Then the function checks against the jumbled flag to see if you inputted the rig
 
 I know that I'm not going to waste time figuring out which letter goes into which index of the array, and since the scrambling function is fairly regular, I shall just run the jumbled flag through the program itself a few times. The number of times I have to run it will probably be a multiple of 3. 
 
-flag in code: 1}c5f1bbeb4580{RSI43db46731
-31746b3d4bebf15}c1SIR0{845b
-5b4{80IRSd436b4173c1}15febb
-bbe5f11}cRSI80{b45731b4643d
-3d446b317}c1f15beb45b0{8SIR
-IRS{805b41736b4d43ebb15fc1}
+flag in code: 1}c5f1bbeb4580{RSI43db46731 <br>
+31746b3d4bebf15}c1SIR0{845b <br>
+5b4{80IRSd436b4173c1}15febb <br>
+bbe5f11}cRSI80{b45731b4643d <br>
+3d446b317}c1f15beb45b0{8SIR <br>
+IRS{805b41736b4d43ebb15fc1} <br>
 
 not bad for just 6 times. This probably will never work again.
