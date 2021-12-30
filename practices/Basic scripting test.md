@@ -26,8 +26,11 @@ considering that I don't code, and that I have next to no python experience, I f
   - have an integer that runs through a checking function to see if the md5 hash starts with 2 zeros
   - if it does, it recognises it as a valid coin, and should know the nth term, if n != 10 it should continue checking integers
   - if it doesn't, it keeps increasing the integer 
-I know the nth thingy probably wasn't necessary but I wanted it to self terminate\
-I also know it can be done with a function and a couple if statements\
+
+I know the nth thingy probably wasn't necessary but I wanted it to self terminate
+
+I also know it can be done with a function and a couple if statements
+
 the only thing I didn't know was how to md5 in python which was really easy to search. so after that I wrote the following script 
 
 ```python 
