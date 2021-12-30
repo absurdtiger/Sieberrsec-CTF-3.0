@@ -6,7 +6,7 @@ Sieberrsec CTF 2021 was organised by the folks at https://github.com/IRS-Cyberse
 I participated with burp in the secondary school category and we placed 6th, with 16th overall. Burp's points doubled mine, so it's clear who's the better one. He also managed to fb something lucky man 
 
 ## Proper writeups by professionals
-https://github.com/IRS-Cybersec/ctfdump/tree/master/Sieberrsec%20CTFs<br>
+https://github.com/IRS-Cybersec/Sieberrsec-CTF-3.0 (official writeup repo) <br>
 https://github.com/junron/writeups/tree/master/2021/sieberrsec<br>
 https://github.com/MaherAzzouzi/LinuxKernelExploitation/tree/main/SCTF21<br>
 https://github.com/DenseLance/ctf-challenges/tree/main/Sieberrsec%20CTF%203.0
