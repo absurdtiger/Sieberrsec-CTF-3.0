@@ -38,14 +38,16 @@ Category: BE | Practice chall | author: main
 > The flag for this challenge is the C representation of the expected output of this program. Make sure you include the quotation marks.
 
 # Solution
-don't ask me why I decided to put the entire desc in a block quote. I'm never doing that again. 
-originally I read a bit too much into the c code and bothered a few people trying to understand what the `setbuf` function did, out of my complete unfamiliarity with c. 
+don't ask me why I decided to put the entire desc in a block quote. I'm never doing that again. <br>
+originally I read a bit too much into the c code and bothered a few people trying to understand what the `setbuf` function did, out of my complete unfamiliarity with c. <br>
 eventually it got into my head that they literally just wanted the formatted output as the flag. 
 
 how is this pwn even
 
 either way I was stuck trying to concatenate strings for a while, until I opened a ticket and asked for help. response I got hinted to the bolded text **The C representation of the entire output is "hello world!\n".**, which I had completely overlooked. In my defence, bold white text is not easy to discern on a dark background. 
 I also realised I was a doofus and I didn't save my final input anywhere, so I will just wing and say it was 
+
 `"0x2\t- hellllllllllllllp me!\n"`
-without having concrete verification that this is the correct answer. 
+
+without having concrete verification that this is the correct answer. <br>
 I don't mentally consider this a valid chall but it was interesting I suppose 
