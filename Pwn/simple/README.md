@@ -63,7 +63,7 @@ the program also runs `account_value -= withdrawal;`<br>
 basic math:
 - 1 - (-1) = 2
 
-![solution1](/Binary%20Exploitation/simple/simplesolution1.png)
+![solution1](simplesolution1.png)
 
 ### solution 2: integer overflow
 <https://www.acunetix.com/blog/web-security-zone/what-is-integer-overflow/>
@@ -72,9 +72,9 @@ this effectively means that if you input the right number, the number will turn 
 
 then the concept in solution 1 applies.
 
-![solution2](/Binary%20Exploitation/simple/simplesolution2.png)
+![solution2](simplesolution2.png)
 
 ### solution 3: whatever the heck I did
 spamming 9s
 
-![solution3](/Binary%20Exploitation/simple/simplesolution3.png)
+![solution3](simplesolution3.png)
