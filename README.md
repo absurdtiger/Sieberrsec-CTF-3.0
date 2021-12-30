@@ -26,3 +26,4 @@ https://github.com/DenseLance/ctf-challenges/tree/main/Sieberrsec%20CTF%203.0
 2. why did I envision myself making ctf writeups? i have no idea man 
 3. maybe I just like documenting useless information 
 4. side-effect of formal education
+5. I tried to be systematic in the writing of writeups but no soooo
