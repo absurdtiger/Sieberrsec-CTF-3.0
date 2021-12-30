@@ -64,29 +64,30 @@ Hence,
 The important thing to understand is the math. (this is a dumbed-down explanation. but it's so cool)
 
 `B` is generated with function g^b mod p.
-- 5 to the power of b(controlled) mod p
+- `g` is 5
+- 5 to the power of `b`(controlled) mod `p`
 - mod is essentially to find the remainder
-- so B is the remainder of (5^b) / p 
+- so `B` is the remainder of (5^`b`) / `p` 
 
 ### INDICES TIME 
 4TH RULE OF INDICES <br>
 anything to the power of 0 is 1
 
-when b = 0, <br>
-B = 1 mod p <br>
-1 mod anything is 1 because 1 can only be divided by itself, so p or g don't matter <br>
-therefore when b = 0, B = 1
+when `b` = 0, <br>
+`B` = 1 mod `p` <br>
+1 mod anything is 1 because 1 can only be divided by itself, so `p` or `g` don't matter <br>
+therefore when `b` = 0, `B` = 1
 
 below is the formula for shared_secret 
 
 ![Screenshot 2021-12-30 211354.png](Screenshot 2021-12-30 211354.png)
 
-let's focus on B^a mod p. 
+let's focus on `B`^`a` mod `p`. 
 
 `a` is unknown. But we can control `B`, which is 1, and 1 to the power of anything is 1. <br>
 so, `a` doesn't matter, <br>
 and from previously, `p` doesn't matter either. <br>
-When b=0, shared_secret=1
+When `b` = 0, `shared_secret` = 1
 
 since enc = shared_secret * flag <br>
 when shared_secret = 1 <br>
