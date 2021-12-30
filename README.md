@@ -8,7 +8,8 @@ I participated with burp in the secondary school category and we placed 6th, wit
 ## Proper writeups by professionals
 https://github.com/IRS-Cybersec/ctfdump/tree/master/Sieberrsec%20CTFs<br>
 https://github.com/junron/writeups/tree/master/2021/sieberrsec<br>
-https://github.com/MaherAzzouzi/LinuxKernelExploitation/tree/main/SCTF21
+https://github.com/MaherAzzouzi/LinuxKernelExploitation/tree/main/SCTF21<br>
+https://github.com/DenseLance/ctf-challenges/tree/main/Sieberrsec%20CTF%203.0
 
 ## Things you should know before reading anything inside
 1) I made this completely selfishly to gain the benefits of public accountability on my progression from noob to slightly less of a noob. 
