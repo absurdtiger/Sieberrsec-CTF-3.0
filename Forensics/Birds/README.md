@@ -40,3 +40,7 @@ the correct url is <https://pastebin.com/ZzkaFYiL>
 ![birds5.png](birds5.png)
 
 `IRS{s0m3Th1n9_5ouNDs_w3iRd}`
+
+## Comments 
+
+The low readability of characters in a spectogram is something to watch out for when creating/solving future spectogram challenges. 
