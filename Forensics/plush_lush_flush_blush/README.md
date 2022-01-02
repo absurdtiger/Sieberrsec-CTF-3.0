@@ -1,5 +1,6 @@
 # Plush, Lush, Flush, Blush
-https://github.com/IRS-Cybersec/Sieberrsec-CTF-3.0/tree/master/Forensics/plush_lush_flush_blush
+<https://github.com/IRS-Cybersec/Sieberrsec-CTF-3.0/tree/master/Forensics/plush_lush_flush_blush>
+
 7 solves
 
 ## Description
