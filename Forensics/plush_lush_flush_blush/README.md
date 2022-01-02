@@ -24,7 +24,7 @@ Dumping the string into cyberchef returns:
 
 ![plfb1.png](plfb1.png)
 
-So, the first part: `IRS{plu5h`.
+So, the first part: `IRS{plu5h`. ~~I didn't get anywhere after this because I had forgotten aperisolve exists~~
 
 Thereafter, running `binwalk --dd='.*' filename` will extract all the identified files. 
 
