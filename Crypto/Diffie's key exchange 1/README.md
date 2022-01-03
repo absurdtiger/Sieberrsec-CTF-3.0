@@ -80,7 +80,7 @@ therefore when `b` = 0, `B` = 1
 
 below is the formula for shared_secret 
 
-![Screenshot 2021-12-30 211354.png](Screenshot 2021-12-30 211354.png)
+![formula.png](formula.png)
 
 let's focus on `B`^`a` mod `p`. 
 
