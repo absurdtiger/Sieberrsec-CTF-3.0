@@ -1,5 +1,7 @@
 # Heads and Tails Part 3
-163 pts | 25 solves | author: hongxun
+25 solves
+
+https://github.com/IRS-Cybersec/Sieberrsec-CTF-3.0/tree/master/Misc/Heads_and_Tails
 
 ## Description
 
@@ -48,4 +50,5 @@ Nice! Here's your flag: VEF{n_pYBjA_Ulgg3A_nG_Yr_G4yY}
 
 ![finally](/Misc/Heads&Tails/h&t3finally.png)
 
-IRS{a_cLOwN_Hytt3N_aT_Le_T4lL} 
+`IRS{a_cLOwN_Hytt3N_aT_Le_T4lL}`
+  
