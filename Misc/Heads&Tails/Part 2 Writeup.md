@@ -1,5 +1,7 @@
 # Heads and Tails Part 2
-category: misc | 73 pts after degrade | 37 solves | author: hongxun
+37 solves 
+
+https://github.com/IRS-Cybersec/Sieberrsec-CTF-3.0/tree/master/Misc/Heads_and_Tails
 
 ## Description
 Again..! But it seems that it's heads to win this time. (and a 50-cent coin)
@@ -17,5 +19,6 @@ putting that into another input tab causes cyberchef to detect something `from H
 
 ![part2](/Misc/Heads&Tails/h&t2sol2.png)
 
-well that was easy <br>
-IRS{w0w_you_aRe_a_proed_4t_tH1s}
+well that was easy
+
+`IRS{w0w_you_aRe_a_proed_4t_tH1s}`
