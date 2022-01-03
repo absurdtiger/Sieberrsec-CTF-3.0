@@ -1,5 +1,7 @@
 # simple
-category: BE | 62 pts after degrade | 47 solves | author: chowgz
+47 solves
+
+https://github.com/IRS-Cybersec/Sieberrsec-CTF-3.0/tree/master/Pwn/simple
 
 ## description
 Simple game right?
@@ -78,3 +80,5 @@ then the concept in solution 1 applies.
 spamming 9s
 
 ![solution3](simplesolution3.png)
+
+`IRS{W377_D0NE_40U_G3N1u5_WBVAVEF}`
