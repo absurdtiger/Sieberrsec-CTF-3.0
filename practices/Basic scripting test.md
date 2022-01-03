@@ -68,3 +68,20 @@ check(381182, 10)
 ```
 
 let me repeat that I don't code so I honestly impressed myself doing this 
+
+```python
+python3 md5script.py
+the first sieberrcoin is 381182.
+381182 is the 1th sieberrcoin
+609619 is the 2th sieberrcoin
+1522953 is the 3th sieberrcoin
+1710365 is the 4th sieberrcoin
+1889623 is the 5th sieberrcoin
+4182159 is the 6th sieberrcoin
+4354888 is the 7th sieberrcoin
+6070176 is the 8th sieberrcoin
+7053717 is the 9th sieberrcoin
+7674696 is the 10th sieberrcoin
+```
+
+`IRS{7674696}` iirc
