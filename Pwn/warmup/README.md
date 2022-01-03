@@ -1,5 +1,5 @@
 # warmup
-category: pwn | 316 points | 17 solves | author: main
+17 solves
 
 ## Description
 Just a warmup. `nc challs.sieberrsec.tech 3476`
@@ -26,7 +26,7 @@ int main() {
 N.B. please do not try to bruteforce the flag. Attempts at doing so will be taken as an attack on server infrastructure, and will leave you liable for disqualification.
 
 ## Solution
-This is a chall I didn't originally manage to get. 
+We did not solve this chall during the ctf. 
 
 ```c 
     char input[32];
@@ -71,7 +71,7 @@ as long as you send between 33-48 NULL bytes. any shorter will not overwrite the
 
 ![warmup1.png](warmup1.png)
 
-IRS{nU1L_t3rminat0r}
+`IRS{nU1L_t3rminat0r}`
 
 ## comments
 - Values are on the stack according to where they're declared
