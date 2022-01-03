@@ -12,7 +12,8 @@ To solve this challenge, one can consider the ways to search an image online. A 
 
 # Solution
 how hard can reverse image search be 
-![testpic](/images/testpic.jpg)
+
+![testpic](images/testpic.jpg)
 
 generally I head over to <https://images.google.com>
 
