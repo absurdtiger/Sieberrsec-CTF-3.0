@@ -69,8 +69,8 @@ check(381182, 10)
 
 let me repeat that I don't code so I honestly impressed myself doing this 
 
-```python
-python3 md5script.py
+```
+$ python3 md5script.py
 the first sieberrcoin is 381182.
 381182 is the 1th sieberrcoin
 609619 is the 2th sieberrcoin
