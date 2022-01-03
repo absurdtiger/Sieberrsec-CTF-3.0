@@ -1,5 +1,7 @@
 # Heads and Tails pt 1
-category: misc | 50pts after degrade | 50 solves | author: honxun
+50 solves | author: honxun
+
+https://github.com/IRS-Cybersec/Sieberrsec-CTF-3.0/tree/master/Misc/Heads_and_Tails
 
 ## Description
 Get the Heads and Tails
