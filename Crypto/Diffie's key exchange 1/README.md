@@ -100,4 +100,4 @@ from the code, the flag was encrypted with `bytes_to_long()`. So we just reverse
 
 ![diffiesol2.png](diffiesol2.png)
 
-IRS{d1ff1e_h311m4n!!!}
+`IRS{d1ff1e_h311m4n!!!}`
